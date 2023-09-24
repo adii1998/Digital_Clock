@@ -21,7 +21,10 @@
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
+<<<<<<< HEAD
     "gh-pages": "^6.0.0",
+=======
+>>>>>>> 0c2c837b18a666b05756eaf640cbe6b0a89f08b1
     "vite": "^4.4.5"
   }
 }
